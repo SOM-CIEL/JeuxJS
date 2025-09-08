@@ -11,5 +11,11 @@
   "description": "",
   "devDependencies": {
     "eslint": "^9.35.0"
+  },
+  "dependencies": {
+    "@babel/helper-globals": "^7.28.0",
+    "@eslint/js": "^9.35.0",
+    "express": "^5.1.0",
+    "globals": "^16.3.0"
   }
 }
